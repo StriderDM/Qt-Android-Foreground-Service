@@ -1,0 +1,35 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.DS_Store
+
+build-service-Android_for_x86_Clang_Qt_5_13_0_for_Android_x86-Debug/
+build-service-Android_for_arm64_v8a_Clang_Qt_5_13_0_for_Android_ARM64_v8a-Debug/
+build-service-Android_for_armeabi_v7a_Clang_Qt_5_13_0_for_Android_ARMv7-Debug/
+build-service-Android_for_x86_64_Clang_Qt_5_13_0_for_Android_x86_64-Debug/
